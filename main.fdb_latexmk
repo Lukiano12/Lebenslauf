@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1739789925.99868 "g:/Lebenslauf/main.tex" "main.pdf" "main" 1739789929.42787 0
+["pdflatex"] 1739793350.94855 "g:/Lebenslauf/main.tex" "main.pdf" "main" 1739793358.22097 0
   "C:/Users/lnztadil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739257002 122523 388333b97d2e433b66eb03fb8990bdc8 ""
   "C:/Users/lnztadil/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736418097 11995304 639aba1e8c212e3b0ab6a8aed7b309d5 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1651496629 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -197,11 +197,11 @@
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1730400552 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/lnztadil/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729261622 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "g:/Lebenslauf/main.tex" 1739789675 2615 a56bff6c4ca344a8e87c4713f714ee81 ""
+  "g:/Lebenslauf/main.tex" 1739793330 2615 a56bff6c4ca344a8e87c4713f714ee81 ""
   "images/2025-02-12_11h40_08.png" 1739356808 546707 6dd508e13722e21713ee195c4af01704 ""
-  "main.aux" 1739789927 912 4b58ab703acc3e8a56fb1d1d8a472ab8 "pdflatex"
-  "main.out" 1739789927 728 31560efd70e7be902adce72b9fc8ba11 "pdflatex"
-  "main.tex" 1739789675 2615 a56bff6c4ca344a8e87c4713f714ee81 ""
+  "main.aux" 1739793356 912 4b58ab703acc3e8a56fb1d1d8a472ab8 "pdflatex"
+  "main.out" 1739793356 728 31560efd70e7be902adce72b9fc8ba11 "pdflatex"
+  "main.tex" 1739793330 2615 a56bff6c4ca344a8e87c4713f714ee81 ""
   (generated)
   "main.aux"
   "main.log"
